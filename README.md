@@ -26,7 +26,7 @@ transfobia-detection-bertimbau/
 
 ## 🔧 Requisitos e Instalação
 ```bash
-git clone https://github.com/seu-usuario/transfobia-detection-bertimbau.git
+git clone https://github.com/luizelemesmo/transfobia-detection-bertimbau.git
 cd transfobia-detection-bertimbau
 pip install -r requirements.txt
 ```
